@@ -38,8 +38,8 @@ This handbook is intended for:
 
 ## Part I — Python Internals
 
-| Chapter | Topic | Status |
-|----------|------|--------|
+| Chapter | Topic | 
+|----------|------|
 | 01 | Python Data Model & Object Internals 
 | 02 | Functions as First-Class Objects, Closures & Decorators 
 | 03 | Iterators, Generators & Lazy Evaluation 
@@ -48,8 +48,8 @@ This handbook is intended for:
 
 ## Part II — Professional Python
 
-| Chapter | Topic | Status |
-|----------|------|--------|
+| Chapter | Topic | 
+|----------|------|
 | 04 | Memory Management, References, Garbage Collector & Performance 
 | 05 | OOP Beyond Basics (MRO, Mixins, ABC, Protocols, Magic Methods) 
 | 06 | Concurrency (Threading, Multiprocessing, AsyncIO) 
@@ -58,8 +58,8 @@ This handbook is intended for:
 
 ## Part III — Python Engineering
 
-| Chapter | Topic | Status |
-|----------|------|--------|
+| Chapter | Topic | 
+|----------|------|
 | 07 | Typing, Dataclasses, Enums & Modern Python 
 | 08 | Performance Optimization 
 | 09 | Design Patterns & Clean Python Architecture 
